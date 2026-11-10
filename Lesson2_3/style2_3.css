@@ -1,0 +1,186 @@
+.subsbutton{
+    color:white;
+    background-color:rgb(200,0,0);
+    border:none;
+    height:36px;
+    width:105px;
+    border-radius:2px;
+    cursor:pointer;
+    margin-right:8px;
+    transition:opacity 0.15s;
+}
+.subsbutton:hover{
+    opacity:0.8;
+}
+.subsbutton:active{
+    opacity:0.4;
+}
+.joinbutton{
+    color:rgb(41,118,211);
+    background-color:white;
+    border-color:rgb(41,118,211);
+    border-style:solid;
+    height:36px;
+    width:62px;
+    border-radius:2px;
+    border-width:1px;
+    cursor:pointer;
+    transition: background-color 0.15s,color 0.15s;
+}
+.joinbutton:hover{
+    color:white;
+    background-color:rgb(41,118,211);
+   
+}
+.joinbutton:active{
+    opacity:0.7;
+}
+.tweetbutton{
+    color:white;
+    background-color:rgb(29,161,242);
+    border:none;
+    border-radius:18px;
+    height:36px;
+    width:74px;
+    cursor:pointer;
+    font-weight:bold;
+    margin-left:8px;
+    transition:box-shadow 0.15s;
+}
+.tweetbutton:hover{
+    box-shadow:5px 5px 10px rgb(0,0,0,0.15);
+}
+.uberbutton{
+    color:white;
+    background-color:black;
+    border:none;
+    height:36px;
+    width:120px;
+    cursor:pointer;
+    transition:opacity 0.15s;
+}
+.uberbutton:hover{
+    opacity:0.8;
+}
+.amazonbutton{
+    color:black;
+    background-color:rgb(255,216,20);
+    border:none;
+    height:36px;
+    width:180px;
+    cursor:pointer;
+    border-radius:18px;
+    transition:background-color 0.15s;
+}
+.amazonbutton:hover{
+    background-color:rgba(234, 183, 0, 0.913);
+}
+.amazonbutton:active{
+    opacity:0.7;
+}
+.githubbutton{
+    color:white;
+    background-color:rgb(46,164,79);
+    border:none;
+    height:36px;
+    width:80px;
+    cursor:pointer;
+    border-radius:5px;
+    transition:box-shadow 0.15s;
+}
+.githubbutton:hover{
+    box-shadow:0px 5px 10px rgb(0,0,0,0.15);
+}
+.bootstrapbutton{
+    color:white;
+    background-color:rgb(121,82,179);
+    border:none;
+    border-radius:2px;
+    height:36px;
+    width:120px;
+    cursor:pointer;
+    transition:background-color 0.15s;
+}
+.bootstrapbutton:hover{
+    background-color:rgb(89, 46, 154);
+}
+.bootstrapbutton2{
+    color:rgb(108,117,125);
+    background-color:white;
+    border-color:rgb(108,117,125);
+    height:36px;
+    width:120px;
+    border-style:solid;
+    border-width:1px;
+    cursor:pointer;
+    border-radius:2px;
+    margin-left:8px;
+    transition:background-color 0.15s,color 0.15s;
+}
+.bootstrapbutton2:hover{
+    color:white;
+    background-color:rgb(108,117,125);
+}
+.linkedinbutton{
+    color:white;
+    background-color:rgb(10,102,194);
+    border:none;
+    height:36px;
+    width:250px;
+    cursor:pointer;
+    border-radius:18px;
+    transition:background-color 0.15s;
+}
+.linkedinbutton2{
+    color:rgb(10,102,194);
+    background-color:white;
+    border-color:rgb(10,102,194);
+    height:36px;
+    width:80px;
+    margin-left:8px;
+    border-style:solid;
+    border-width:1px;
+    cursor:pointer;
+    border-radius:18px;
+    transition:background-color 0.15s,color 0.15s,border-color 0.15s,border-width 0.15s;
+}
+.linkedinbutton:hover{
+    background-color:rgb(8, 63, 118);
+}
+.linkedinbutton2:hover{
+    background-color:rgb(167, 223, 255);
+    color:rgb(10,102,194);
+    border-color:rgb(10,102,194);
+    border-width:3px;
+}
+.amazonlink{
+    color:rgb(0,113,133);
+}
+.amazonlink:hover{
+    color:rgb(222, 145, 1);
+}
+.nikepara{
+    color:rgb(0, 0, 0);
+    font-weight:bold;
+    font-size:30px;
+}
+.price{
+    color:rgb(0,118,0);
+    font-weight:bold;
+}
+.amazonbutton2{
+    color:black;
+    background-color:rgb(241, 131, 6);
+    border:none;
+    height:36px;
+    width:140px;
+    cursor:pointer;
+    border-radius:18px;
+    transition:background-color 0.15s;
+}
+.amazonbutton2:hover{
+    background-color:rgb(255, 163, 34);
+}
+.amazonbutton2:active{
+    opacity:0.7;
+}
